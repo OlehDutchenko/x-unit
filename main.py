@@ -1,5 +1,5 @@
 # Tasks:
-# [ ] Call testing method
+# [X] Call testing method
 # [ ] Call setUp method before calling the testing method
 # [ ] Call tearDown method after calling the testing method
 # [ ] Method tearDown must be called even if the testing method was failed
